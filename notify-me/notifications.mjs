@@ -6,9 +6,6 @@ Description:
 Handles notifications from server to user. 
 SERVERSIDE
 
-How to use:
-
-
 */
 
 
