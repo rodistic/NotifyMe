@@ -11,7 +11,7 @@
   
   </p>
   
-  <img src="https://cdn.stalk.zone/gta/notifyme.gif">
+ ![NotifyMe Demo](demo/demo.gif)
   
 </p>
 
