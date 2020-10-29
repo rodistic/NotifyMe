@@ -9,9 +9,11 @@
     NotifyMe is an resource for AltV. You can send Big/Little/Banner Notifications to your Users with it!
     <br />
   
-  </p>
+  
   
  ![NotifyMe Demo](demo/demo.gif)
+ 
+ </p>
   
 </p>
 
