@@ -1,4 +1,4 @@
-#NotifyMe
+
 
 <br />
 <p align="center">
@@ -10,6 +10,9 @@
     <br />
   
   </p>
+  
+  <img src="https://cdn.stalk.zone/gta/notifyme.gif">
+  
 </p>
 
 ### Usage
